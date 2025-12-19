@@ -1,1 +1,1 @@
-# Blockchain-based-voting-with-KYC
+# Blockchain-based-voting-system
